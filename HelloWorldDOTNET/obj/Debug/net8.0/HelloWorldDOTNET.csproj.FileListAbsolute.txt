@@ -1,0 +1,14 @@
+/Users/duvalleblanc/Desktop/HelloWorldDOTNET/HelloWorldDOTNET/bin/Debug/net8.0/HelloWorldDOTNET
+/Users/duvalleblanc/Desktop/HelloWorldDOTNET/HelloWorldDOTNET/bin/Debug/net8.0/HelloWorldDOTNET.deps.json
+/Users/duvalleblanc/Desktop/HelloWorldDOTNET/HelloWorldDOTNET/bin/Debug/net8.0/HelloWorldDOTNET.runtimeconfig.json
+/Users/duvalleblanc/Desktop/HelloWorldDOTNET/HelloWorldDOTNET/bin/Debug/net8.0/HelloWorldDOTNET.dll
+/Users/duvalleblanc/Desktop/HelloWorldDOTNET/HelloWorldDOTNET/bin/Debug/net8.0/HelloWorldDOTNET.pdb
+/Users/duvalleblanc/Desktop/HelloWorldDOTNET/HelloWorldDOTNET/obj/Debug/net8.0/HelloWorldDOTNET.GeneratedMSBuildEditorConfig.editorconfig
+/Users/duvalleblanc/Desktop/HelloWorldDOTNET/HelloWorldDOTNET/obj/Debug/net8.0/HelloWorldDOTNET.AssemblyInfoInputs.cache
+/Users/duvalleblanc/Desktop/HelloWorldDOTNET/HelloWorldDOTNET/obj/Debug/net8.0/HelloWorldDOTNET.AssemblyInfo.cs
+/Users/duvalleblanc/Desktop/HelloWorldDOTNET/HelloWorldDOTNET/obj/Debug/net8.0/HelloWorldDOTNET.csproj.CoreCompileInputs.cache
+/Users/duvalleblanc/Desktop/HelloWorldDOTNET/HelloWorldDOTNET/obj/Debug/net8.0/HelloWorldDOTNET.dll
+/Users/duvalleblanc/Desktop/HelloWorldDOTNET/HelloWorldDOTNET/obj/Debug/net8.0/refint/HelloWorldDOTNET.dll
+/Users/duvalleblanc/Desktop/HelloWorldDOTNET/HelloWorldDOTNET/obj/Debug/net8.0/HelloWorldDOTNET.pdb
+/Users/duvalleblanc/Desktop/HelloWorldDOTNET/HelloWorldDOTNET/obj/Debug/net8.0/HelloWorldDOTNET.genruntimeconfig.cache
+/Users/duvalleblanc/Desktop/HelloWorldDOTNET/HelloWorldDOTNET/obj/Debug/net8.0/ref/HelloWorldDOTNET.dll
