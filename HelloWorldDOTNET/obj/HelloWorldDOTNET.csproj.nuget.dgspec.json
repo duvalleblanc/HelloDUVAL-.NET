@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/duvalleblanc/Desktop/HelloWorldDOTNET/HelloWorldDOTNET/HelloWorldDOTNET.csproj": {}
+    "/Users/duvalleblanc/Desktop/HelloWorld-.NET/HelloWorldDOTNET/HelloWorldDOTNET.csproj": {}
   },
   "projects": {
-    "/Users/duvalleblanc/Desktop/HelloWorldDOTNET/HelloWorldDOTNET/HelloWorldDOTNET.csproj": {
+    "/Users/duvalleblanc/Desktop/HelloWorld-.NET/HelloWorldDOTNET/HelloWorldDOTNET.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/duvalleblanc/Desktop/HelloWorldDOTNET/HelloWorldDOTNET/HelloWorldDOTNET.csproj",
+        "projectUniqueName": "/Users/duvalleblanc/Desktop/HelloWorld-.NET/HelloWorldDOTNET/HelloWorldDOTNET.csproj",
         "projectName": "HelloWorldDOTNET",
-        "projectPath": "/Users/duvalleblanc/Desktop/HelloWorldDOTNET/HelloWorldDOTNET/HelloWorldDOTNET.csproj",
+        "projectPath": "/Users/duvalleblanc/Desktop/HelloWorld-.NET/HelloWorldDOTNET/HelloWorldDOTNET.csproj",
         "packagesPath": "/Users/duvalleblanc/.nuget/packages/",
-        "outputPath": "/Users/duvalleblanc/Desktop/HelloWorldDOTNET/HelloWorldDOTNET/obj/",
+        "outputPath": "/Users/duvalleblanc/Desktop/HelloWorld-.NET/HelloWorldDOTNET/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/duvalleblanc/.nuget/NuGet/NuGet.Config"
